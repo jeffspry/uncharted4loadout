@@ -1,0 +1,6 @@
+__pycache__/
+env/
+data/
+old/
+*.pyc
+*.bat

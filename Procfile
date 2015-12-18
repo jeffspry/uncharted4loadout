@@ -1,0 +1,1 @@
+worker: python uncharted4loadout.py
